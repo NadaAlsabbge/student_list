@@ -9,5 +9,4 @@
 function myFunction() {
     var x = document.getElementById("title").value;
     document.getElementById("appear").innerHTML += x;
-
 }
